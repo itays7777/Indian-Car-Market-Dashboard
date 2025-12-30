@@ -13,7 +13,7 @@ Built for storytelling, stakeholder clarity, and reusable logic.
 
 🛠️ **Project Type**  
 - **Frontend:** Power BI  
-- **Backend:** Excel + SQL logic structuring  
+- **Backend:** Excel logic structuring  
 
 ---
 

@@ -26,13 +26,20 @@ Data processed in Excel, visualized in Power BI.
 
 📁 **Directory Structure**
 
+Indian-Car-Market-Dashboard/  
+├─ data/  
+│  ├─ car_dataset_india.xlsx  
+├─ assets/  
+│  ├─ Indian_Car_Market_Dashboard.pdf     
+├─ README.md  
 
 ---
 
 📸 **Screenshots**  
-- Fuel & Performance tab  
-- Brand Insights tab  
-- Navigation buttons demo  
+<img width="1347" height="755" alt="Screenshot 2025-12-30 172412" src="https://github.com/user-attachments/assets/406e0362-b73e-4d04-b841-fe6d8eea6447" />
+<img width="1348" height="758" alt="Screenshot 2025-12-30 172434" src="https://github.com/user-attachments/assets/7248a505-6818-4006-ab7d-e831b95665dc" />
+<img width="1348" height="757" alt="Screenshot 2025-12-30 172454" src="https://github.com/user-attachments/assets/ee8a63aa-45cd-485a-a50b-98726b6bb084" />
+
 
 ---
 

